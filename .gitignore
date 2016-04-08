@@ -1,0 +1,7 @@
+#
+# Adding the default LimeChat themes to the ignore,
+# in case you clone the repo directly into the themes folder.
+#
+
+Sample.css
+Sample.yaml
